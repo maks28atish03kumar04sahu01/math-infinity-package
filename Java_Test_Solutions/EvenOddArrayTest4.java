@@ -1,7 +1,7 @@
 package mathinfinitytest;
 import com.mathinfinity.*;
 import java.util.*;
-public class EvenOddArrayTest3 {
+public class EvenOddArrayTest4 {
 	public static void main(String[] args) {
 		long[] ar4 = {10, 21, 30, 41, 50, 61, 70, 81, 90, 101};
 		long[] res4 = EvenOddArray.evenoddArray(ar4, "oDd");
